@@ -1,0 +1,15 @@
+table tbody tr td {
+padding: 40px;
+margin: 15px;
+font-size:70px;
+background-color: crimson;
+color: white;
+text-align: center;
+top: 50%;
+right: 50%;
+}
+
+table tbody tr  :hover{
+    background-color: blue;
+    transition: ease-in 0.2s;
+}
